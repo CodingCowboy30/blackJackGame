@@ -1,0 +1,22 @@
+let age = 34
+
+if (age === 21) {
+    console.log("Come on in")
+} else if(age === 20) {
+    console.log("Party, NO DRINKS")
+ } else if (age >= 30){
+console.log("Go Home granmps")
+ }  else {
+    console.log("Lets Party")
+ } */
+
+
+let age = 100
+
+if (age < 100) {
+    console.log("Not Eligible")
+} else if(age === 100) {
+    console.log("Here is your birthday card from the King")
+} else {
+    console.log("Not eligible, you have already gotten one")
+}
